@@ -1,0 +1,4 @@
+How will your technique/approach to this lab be similar to the process you used in lab 2?
+  Ill be doing the same thing basically, but with words instead of characters which should be easy. Both are still using array stack.
+How will your technique/approach to this lab differ from the process you used in lab 2?
+  I have to split the text into words before pushing them onto a stack. And I must clean all the words as well
